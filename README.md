@@ -25,10 +25,13 @@ My full name is `Bui Anh Duy`
 <img src="./Icons/free_rtos.png"        width="100" height="45"/>
 <img src="./Icons/contiki_os.png"       width="130" height="30"/><a></p>
 
+<h4 align="left">Workplace:</h4>
+
+
 <!-- ||<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
 |---|---| -->
 
 |  <pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre>  |<pre><img align="center" width="150" height="128" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>   |
 |---|---|
-|   |   |
+|                           |                          |
 
