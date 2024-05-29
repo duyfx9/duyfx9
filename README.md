@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**duyfx9/duyfx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="25" height="25" src="Icons/motion_icon.gif"/> My full name is `Chau Ngoc Tinh`, but my friends often call me `Tinh Chau` or... `Tenh Chu`.
 
-Here are some ideas to get you started:
+- 🎓 I'm studying at HCM University of Technology.
+- 🌱 I’m currently learning Electronics and Telecommunication.
+- ⚡ Fun fact: trying to go from failure engineer to the greatest technician that ever lived.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="left">Languages:</h4>
+<p><a target="_blank" rel="noreferrer"> 
+<img src="./Icons/c-original.svg"       width="35" height="35"/></a></p>
+
+<h4 align="left">Tools:</h4>
+<p><a target="_blank" rel="noreferrer">
+<img src="./Icons/code.png"             width="35" height="35">
+<img src="./Icons/stm32cube.png"        width="35" height="35">
+<img src="./Icons/git-scm-icon.svg"     width="35" height="35"> 
+<img src="./Icons/Github.ico"           width="35" height="35"/>
+<img src="./Icons/altium_designer.png"  width="35" height="35"/>
+<img src="./Icons/KiCad.png"            width="80" height="35"/></a></p>
+
+<h4 align="left">OS:</h4>
+
+<p><a target="_blank" rel="noreferrer">
+<img src="./Icons/free_rtos.png"        width="100" height="45"/>
+<img src="./Icons/contiki_os.png"       width="130" height="30"/><a></p>
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500)<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnit3003&bg_color=0e1118&hide_border=true&custom_title=TinhChau's%20Contribution%20Graph&area=true&area_color=1488D8&title_color=1488D8&line=1488D8&point=1488D8&theme=high-contrast" width="650" alt="TinhChauContribution-graph" title="TinhChau's Contribution Graph">|<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
+|---|---|
