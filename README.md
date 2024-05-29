@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img width="25" height="25" src="Icons/motion_icon.gif"/> My full name is `Chau Ngoc Tinh`, but my friends often call me `Tinh Chau` or... `Tenh Chu`.
+My full name is `Bui Anh Duy`
 
 - 🎓 I'm studying at HCM University of Technology.
 - 🌱 I’m currently learning Electronics and Telecommunication.
-- ⚡ Fun fact: trying to go from failure engineer to the greatest technician that ever lived.
+
 
 <h4 align="left">Languages:</h4>
 <p><a target="_blank" rel="noreferrer"> 
